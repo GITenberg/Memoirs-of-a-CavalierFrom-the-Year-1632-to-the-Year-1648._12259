@@ -1,0 +1,43 @@
+_repo: Memoirs-of-a-CavalierFrom-the-Year-1632-to-the-Year-1648._12259
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Moreton, Andrew
+    - Defo, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: ''
+gutenberg_bookshelf:
+- Historical Fiction
+- Germany
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Historical fiction'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Royalists -- Fiction'
+- !lcsh 'Great Britain -- History -- Civil War, 1642-1649 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History, Military -- 1603-1714 -- Fiction'
+- !lcsh 'Thirty Years'' War, 1618-1648 -- Fiction'
+- GITenberg
+title: 'Memoirs of a Cavalier
+
+  A Military Journal of the Wars in Germany, and the Wars in England.
+
+  From the Year 1632 to the Year 1648.'
+url: http://www.gutenberg.org/ebooks/12259
