@@ -1,5 +1,8 @@
 _repo: Memoirs-of-a-CavalierFrom-the-Year-1632-to-the-Year-1648._12259
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -14,6 +17,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12259#Memoirs-of-a-CavalierFrom-the-Year-1632-to-the-Year-1648.
 gutenberg_bookshelf:
 - Historical Fiction
 - Germany
